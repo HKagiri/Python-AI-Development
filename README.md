@@ -15,9 +15,11 @@ Notable actions include :
 ---
 ### 2) Music Predcition using Decision Trees and Comparing the model with Naive Bayes
 ---
+
 * Train the model
 * Make predictions
 * Evaluate and improve the machine learning model
+* Comparing decision tree algorithm to naive bayes 
 ---
 Further functions done:
 ---

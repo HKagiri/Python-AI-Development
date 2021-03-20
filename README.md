@@ -1,7 +1,8 @@
 # Python-AI-Development
 This documents all my practice perfoming AI techniques using python as the main programming language.
 ## Notable Projects done was: 
-### Natuaral Language Processing using NLTK library to clean tweets and process clean data 
+---
+### 1) Natural Language Processing using NLTK library to clean tweets and process clean data 
 ---
 Notable actions include :
 * Find the number of unique words in the file
@@ -12,7 +13,7 @@ Notable actions include :
 * Perform a Part of speech tagging
 * Create a word cloud of the cleaned data
 ---
-### Music Predcition using Decision Trees and Comparing the model with Naive Bayes
+### 2) Music Predcition using Decision Trees and Comparing the model with Naive Bayes
 ---
 * Train the model
 * Make predictions
